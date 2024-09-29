@@ -2,7 +2,7 @@ clear
 echo -e '\033[1;32m--------------------------------------------------------'
 echo -e '''\033[1;32m              LOCKED YOUR TERMUX XIXIXIXI'''
 echo -e '--------------------------------------------------------'
-echo -e '''SILAHKAN BELI KEY UNTUK MEMBUKA TERMUX ANDA'''
+echo -e '''SILAHKAN BELI KEY UNTUK MEMBUKA TERMUX ANDA COK'''
 echo -e '--------------------------------------------------------'
 #!/bin/bash
 
