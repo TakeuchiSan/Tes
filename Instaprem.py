@@ -1,1 +1,1 @@
-import instaprem
+import insta
